@@ -1,0 +1,111 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/USER/Desktop/verilog_spi_M25AA010A
+vedge_detect_neg
+Z1 !s110 1621330215
+!i10b 1
+!s100 7bo]8J`5k0J6ZH>M1_^PL1
+IPONYoLPjNXB1Y<ME;60dQ3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1598185958
+8edge_detect_neg.v
+Fedge_detect_neg.v
+L0 1
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1621330215.000000
+Z6 !s107 spi_tb.v|spi.v|edge_detect_pos.v|edge_detect_neg.v|M25AA010A.v|
+Z7 !s90 -reportprogress|300|M25AA010A.v|edge_detect_neg.v|edge_detect_pos.v|spi.v|spi_tb.v|
+!i113 1
+Z8 tCvgOpt 0
+vedge_detect_pos
+R1
+!i10b 1
+!s100 bGg5_Xebz@zoz<a4hG8:i2
+I0IJB]mLS0FI]94[P7EMe40
+R2
+R0
+R3
+8edge_detect_pos.v
+Fedge_detect_pos.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+vM25AA010A
+R1
+!i10b 1
+!s100 fD>g_OWamZh6KTADO?Xch0
+I9BJaGBSAJ<6g[:lgBWWB61
+R2
+R0
+R3
+8M25AA010A.v
+FM25AA010A.v
+L0 81
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+n@m25@a@a010@a
+vspi
+R1
+!i10b 1
+!s100 iKDYo0FFL0ZFbW0=zR2:e2
+IGEfHIC4`=ZIX:Ebl8PcYC3
+R2
+R0
+R3
+8spi.v
+Fspi.v
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+vspi_tb
+R1
+!i10b 1
+!s100 GW95;19@JmC5>z[URKnKM3
+I@]SWlN;?mFD_8]>6^5Ykd0
+R2
+R0
+w1621330141
+8spi_tb.v
+Fspi_tb.v
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
